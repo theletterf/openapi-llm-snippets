@@ -1,6 +1,6 @@
-# OpenAPI Code SnippetsGenerator
+# OpenAPI Code Snippets Generator
 
-A React web application that generates code snippets for API endpoints from OpenAPI/Swagger specifications using AI models (Claude and ChatGPT).
+This is an experimental application I've created in 90 minutes using Cursor. It renders the operations of an OpenAPI file and lets you generate sample code snippets using OpenAI or Claude. This is what I'm referring to when I say "Figure out where AI should interface in your information architecture and let the LLMs roam within the boundaries that you build for them."
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ A React web application that generates code snippets for API endpoints from Open
 1. Clone the repository.
 2. Navigate to the project directory:
    ```sh
-   cd openapi-code-generator
+   cd openapi-llm-snippets
    ```
 
 3. Install the dependencies:
