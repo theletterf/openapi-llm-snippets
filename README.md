@@ -1,4 +1,4 @@
-# OpenAPI Code Snippets Generator
+# OpenAPI AI Code Snippets Generator
 
 This is application renders the operations of an OpenAPI file and lets you generate sample code snippets using OpenAI or Claude.
 
